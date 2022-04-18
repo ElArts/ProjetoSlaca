@@ -1,1 +1,38 @@
-/* You can add global styles to this file, and also import other style files */
+header p{
+    font-size: 32px;
+    color: white;
+    background-color: orange;
+    width: 400px;
+    padding-left: 100px;
+    font-weight: 600;
+    display: block;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+table, th, td {
+    border: 1px solid;
+    display: block;
+    padding-right: 254px;
+    border-collapse:collapse;
+    box-shadow: rgb(249 160 76) 4px 0px 0px inset;
+  }
+
+.sidenav{
+    width: 400px;
+    position: fixed;
+    overflow-x: hidden;
+    padding-top: 20px;
+}
+
+.sidenav a{
+    display: block;
+    text-decoration: none;
+    width: 200px;
+    font-size: 20px;
+    font-weight: 350;
+    padding-left: 25px;
+    color: brown;
+}
+.sidenav a:hover {
+    color: orange;
+  }

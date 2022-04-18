@@ -1,0 +1,5 @@
+header h1, h2{
+    display: flex;
+    font-size: 15px;
+    color: black;
+}
