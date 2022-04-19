@@ -1,5 +1,70 @@
+header{
+    display:flexbox;
+    width: 4000px;
+    padding-left: 40px;
+    background-color: #ffebe6;
+    margin-left: 400px;
+}
 header h1, h2{
-    display: flex;
+    color: gray;
     font-size: 15px;
-    color: black;
+}
+header h2{
+    margin-top: -33px;
+}
+header p{
+    color:gray;
+    background-color: #ffebe6;
+    font-size: 25px;
+    padding-left: 1px;
+    width: 4000px;
+    margin-top: -25px;
+}
+button{
+    display:flex;
+    margin-left: 850px;
+    margin-top: -30px;
+    color:black;
+    border-radius: 4px;
+    background-color: #ffebe6;
+    border: 1px, solid;
+    border-color: black;
+}
+.details p{
+    display: flex;
+    margin-top: -800px;
+    margin-left: 1500px;
+    background-color: #ffebe6;
+    font-size: 25px;
+}
+.details h2{
+    font-size: 20px;
+    display: flex;
+    margin-left: 1500px;
+}
+.info p{
+    display: flex;
+    font-size: 30px;
+    color: orangered;
+    width: 1080px;
+    margin-left: 444px;
+    padding-top: 80px;
+}
+.publicacoes img{
+    display: flex;
+
+}
+.info img{
+    display: flex;
+    margin-left: 450px;
+    width: 1000px;
+}
+.info h1{
+    display: flex;
+    color: orangered;
+    width: 300px;
+    margin-left: 1520px;
+    font-size: 20px;
+    padding-bottom: 90px;
+    margin-top: -85px;
 }

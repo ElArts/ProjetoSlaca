@@ -1,3 +1,7 @@
+header{
+    position: fixed;
+}
+
 header p{
     font-size: 32px;
     color: white;
